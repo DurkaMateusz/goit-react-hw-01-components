@@ -3,6 +3,8 @@
     width: 300px;
     text-align: center;
     background: white;
+    box-shadow: 14px 14px 20px 3px rgba(70, 78, 158, 1);
+    margin-top: 20px;
 }
 
 .avatar {
@@ -28,7 +30,7 @@
 }
 
 .location {
-    color: lightblue;
+    color: blue;
     font-size: 14px;
     font-weight: 300;
     text-align: center;
@@ -37,7 +39,7 @@
 
 .stats {
     display: flex;
-    padding: 2px;
+    padding: 20px;
     color: black;
     background-color: whitesmoke;
     list-style: none;
