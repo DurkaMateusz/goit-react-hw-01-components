@@ -3,6 +3,7 @@
     border-collapse: collapse;
     margin: 0 auto;
     background: white;
+    margin-bottom: 20px;
   }
 
   .transactionHistory th,
